@@ -1,5 +1,5 @@
 # backup
-Backup using batch-file
+Backup using python and batch-file
 
 This repository is copied from speedgiude.net from 2004
 
